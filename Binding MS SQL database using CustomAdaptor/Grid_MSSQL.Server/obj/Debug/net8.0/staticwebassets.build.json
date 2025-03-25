@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "023Pg4SF/hLS4Bhz49ao4TtcR9De5QLGQrMObcUbsyA=",
+  "Source": "Grid_MSSQL.Server",
+  "BasePath": "_content/Grid_MSSQL.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\angular\\connecting-database\\ms-sql-custom\\New folder\\Grid_MSSQL\\grid_mssql.client\\grid_mssql.client.esproj",
+      "Version": 2,
+      "Source": "grid_mssql.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
