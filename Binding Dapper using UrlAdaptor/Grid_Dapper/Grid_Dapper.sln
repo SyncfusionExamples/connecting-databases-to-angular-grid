@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grid_Dapper.Server", "Grid_Dapper.Server\Grid_Dapper.Server.csproj", "{B115B850-7682-4DDC-9D53-1B76D4BCA750}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "grid_dapper.client", "grid_dapper.client\grid_dapper.client.esproj", "{44A16F78-F57E-49FA-ABC2-C12BD23C33E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B115B850-7682-4DDC-9D53-1B76D4BCA750}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B115B850-7682-4DDC-9D53-1B76D4BCA750}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B115B850-7682-4DDC-9D53-1B76D4BCA750}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B115B850-7682-4DDC-9D53-1B76D4BCA750}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44A16F78-F57E-49FA-ABC2-C12BD23C33E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44A16F78-F57E-49FA-ABC2-C12BD23C33E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44A16F78-F57E-49FA-ABC2-C12BD23C33E8}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{44A16F78-F57E-49FA-ABC2-C12BD23C33E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44A16F78-F57E-49FA-ABC2-C12BD23C33E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44A16F78-F57E-49FA-ABC2-C12BD23C33E8}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1863546-1B31-4D44-A0D8-7254CC55DD5D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\angular\\connecting-database\\dapper-custom\\custom\\Grid_Dapper_CustomAdaptor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B651CF2-E3E6-48D7-9488-F0A9E40F22BD}|grid_dapper_customadaptor.client\\grid_dapper_customadaptor.client.esproj|d:\\angular\\connecting-database\\dapper-custom\\custom\\grid_dapper_customadaptor\\grid_dapper_customadaptor.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{6B651CF2-E3E6-48D7-9488-F0A9E40F22BD}|grid_dapper_customadaptor.client\\grid_dapper_customadaptor.client.esproj|solutionrelative:grid_dapper_customadaptor.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98B4ACB-724F-482C-8C45-023E828950D4}|Grid_Dapper_CustomAdaptor.Server\\Grid_Dapper_CustomAdaptor.Server.csproj|d:\\angular\\connecting-database\\dapper-custom\\custom\\grid_dapper_customadaptor\\grid_dapper_customadaptor.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D98B4ACB-724F-482C-8C45-023E828950D4}|Grid_Dapper_CustomAdaptor.Server\\Grid_Dapper_CustomAdaptor.Server.csproj|solutionrelative:grid_dapper_customadaptor.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98B4ACB-724F-482C-8C45-023E828950D4}|Grid_Dapper_CustomAdaptor.Server\\Grid_Dapper_CustomAdaptor.Server.csproj|d:\\angular\\connecting-database\\dapper-custom\\custom\\grid_dapper_customadaptor\\grid_dapper_customadaptor.server\\controllers\\gridcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D98B4ACB-724F-482C-8C45-023E828950D4}|Grid_Dapper_CustomAdaptor.Server\\Grid_Dapper_CustomAdaptor.Server.csproj|solutionrelative:grid_dapper_customadaptor.server\\controllers\\gridcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B651CF2-E3E6-48D7-9488-F0A9E40F22BD}|grid_dapper_customadaptor.client\\grid_dapper_customadaptor.client.esproj|d:\\angular\\connecting-database\\dapper-custom\\custom\\grid_dapper_customadaptor\\grid_dapper_customadaptor.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{6B651CF2-E3E6-48D7-9488-F0A9E40F22BD}|grid_dapper_customadaptor.client\\grid_dapper_customadaptor.client.esproj|solutionrelative:grid_dapper_customadaptor.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B651CF2-E3E6-48D7-9488-F0A9E40F22BD}|grid_dapper_customadaptor.client\\grid_dapper_customadaptor.client.esproj|d:\\angular\\connecting-database\\dapper-custom\\custom\\grid_dapper_customadaptor\\grid_dapper_customadaptor.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B651CF2-E3E6-48D7-9488-F0A9E40F22BD}|grid_dapper_customadaptor.client\\grid_dapper_customadaptor.client.esproj|solutionrelative:grid_dapper_customadaptor.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\angular\\connecting-database\\dapper\\Grid_Dapper\\Grid_Dapper.Server\\Controllers\\GridController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\angular\\connecting-database\\mysql-custom\\New folder\\Grid_MSSQL\\Grid_MSSQL.Server\\Controllers\\GridController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\angular\\connecting-database\\dapper-custom\\Grid_Dapper\\Grid_Dapper.Server\\Controllers\\GridController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B651CF2-E3E6-48D7-9488-F0A9E40F22BD}|grid_dapper_customadaptor.client\\grid_dapper_customadaptor.client.esproj|d:\\angular\\connecting-database\\dapper-custom\\custom\\grid_dapper_customadaptor\\grid_dapper_customadaptor.client\\src\\app\\customadaptor.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{6B651CF2-E3E6-48D7-9488-F0A9E40F22BD}|grid_dapper_customadaptor.client\\grid_dapper_customadaptor.client.esproj|solutionrelative:grid_dapper_customadaptor.client\\src\\app\\customadaptor.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B651CF2-E3E6-48D7-9488-F0A9E40F22BD}|grid_dapper_customadaptor.client\\grid_dapper_customadaptor.client.esproj|d:\\angular\\connecting-database\\dapper-custom\\custom\\grid_dapper_customadaptor\\grid_dapper_customadaptor.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6B651CF2-E3E6-48D7-9488-F0A9E40F22BD}|grid_dapper_customadaptor.client\\grid_dapper_customadaptor.client.esproj|solutionrelative:grid_dapper_customadaptor.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B651CF2-E3E6-48D7-9488-F0A9E40F22BD}|grid_dapper_customadaptor.client\\grid_dapper_customadaptor.client.esproj|d:\\angular\\connecting-database\\dapper-custom\\custom\\grid_dapper_customadaptor\\grid_dapper_customadaptor.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{6B651CF2-E3E6-48D7-9488-F0A9E40F22BD}|grid_dapper_customadaptor.client\\grid_dapper_customadaptor.client.esproj|solutionrelative:grid_dapper_customadaptor.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B651CF2-E3E6-48D7-9488-F0A9E40F22BD}|grid_dapper_customadaptor.client\\grid_dapper_customadaptor.client.esproj|d:\\angular\\connecting-database\\dapper-custom\\custom\\grid_dapper_customadaptor\\grid_dapper_customadaptor.client\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6B651CF2-E3E6-48D7-9488-F0A9E40F22BD}|grid_dapper_customadaptor.client\\grid_dapper_customadaptor.client.esproj|solutionrelative:grid_dapper_customadaptor.client\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98B4ACB-724F-482C-8C45-023E828950D4}|Grid_Dapper_CustomAdaptor.Server\\Grid_Dapper_CustomAdaptor.Server.csproj|d:\\angular\\connecting-database\\dapper-custom\\custom\\grid_dapper_customadaptor\\grid_dapper_customadaptor.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D98B4ACB-724F-482C-8C45-023E828950D4}|Grid_Dapper_CustomAdaptor.Server\\Grid_Dapper_CustomAdaptor.Server.csproj|solutionrelative:grid_dapper_customadaptor.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GridController.cs",
+              "DocumentMoniker": "D:\\angular\\connecting-database\\dapper\\Grid_Dapper\\Grid_Dapper.Server\\Controllers\\GridController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\dapper\\Grid_Dapper\\Grid_Dapper.Server\\Controllers\\GridController.cs",
+              "ToolTip": "D:\\angular\\connecting-database\\dapper\\Grid_Dapper\\Grid_Dapper.Server\\Controllers\\GridController.cs",
+              "RelativeToolTip": "..\\..\\..\\dapper\\Grid_Dapper\\Grid_Dapper.Server\\Controllers\\GridController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T14:53:57.634Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\angular\\connecting-database\\dapper-custom\\custom\\Grid_Dapper_CustomAdaptor\\Grid_Dapper_CustomAdaptor.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Grid_Dapper_CustomAdaptor.Server\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\angular\\connecting-database\\dapper-custom\\custom\\Grid_Dapper_CustomAdaptor\\Grid_Dapper_CustomAdaptor.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Grid_Dapper_CustomAdaptor.Server\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-26T12:12:00.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.ts",
+              "DocumentMoniker": "D:\\angular\\connecting-database\\dapper-custom\\custom\\Grid_Dapper_CustomAdaptor\\grid_dapper_customadaptor.client\\src\\main.ts",
+              "RelativeDocumentMoniker": "grid_dapper_customadaptor.client\\src\\main.ts",
+              "ToolTip": "D:\\angular\\connecting-database\\dapper-custom\\custom\\Grid_Dapper_CustomAdaptor\\grid_dapper_customadaptor.client\\src\\main.ts",
+              "RelativeToolTip": "grid_dapper_customadaptor.client\\src\\main.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-26T12:10:45.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GridController.cs",
+              "DocumentMoniker": "D:\\angular\\connecting-database\\dapper-custom\\custom\\Grid_Dapper_CustomAdaptor\\Grid_Dapper_CustomAdaptor.Server\\Controllers\\GridController.cs",
+              "RelativeDocumentMoniker": "Grid_Dapper_CustomAdaptor.Server\\Controllers\\GridController.cs",
+              "ToolTip": "D:\\angular\\connecting-database\\dapper-custom\\custom\\Grid_Dapper_CustomAdaptor\\Grid_Dapper_CustomAdaptor.Server\\Controllers\\GridController.cs",
+              "RelativeToolTip": "Grid_Dapper_CustomAdaptor.Server\\Controllers\\GridController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAP4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T13:08:25.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "D:\\angular\\connecting-database\\dapper-custom\\custom\\Grid_Dapper_CustomAdaptor\\grid_dapper_customadaptor.client\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "grid_dapper_customadaptor.client\\src\\app\\app.component.ts",
+              "ToolTip": "D:\\angular\\connecting-database\\dapper-custom\\custom\\Grid_Dapper_CustomAdaptor\\grid_dapper_customadaptor.client\\src\\app\\app.component.ts",
+              "RelativeToolTip": "grid_dapper_customadaptor.client\\src\\app\\app.component.ts",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwB0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-14T13:10:19.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomAdaptor.ts",
+              "DocumentMoniker": "D:\\angular\\connecting-database\\dapper-custom\\custom\\Grid_Dapper_CustomAdaptor\\grid_dapper_customadaptor.client\\src\\app\\CustomAdaptor.ts",
+              "RelativeDocumentMoniker": "grid_dapper_customadaptor.client\\src\\app\\CustomAdaptor.ts",
+              "ToolTip": "D:\\angular\\connecting-database\\dapper-custom\\custom\\Grid_Dapper_CustomAdaptor\\grid_dapper_customadaptor.client\\src\\app\\CustomAdaptor.ts",
+              "RelativeToolTip": "grid_dapper_customadaptor.client\\src\\app\\CustomAdaptor.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-14T13:07:36.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app.component.html",
+              "DocumentMoniker": "D:\\angular\\connecting-database\\dapper-custom\\custom\\Grid_Dapper_CustomAdaptor\\grid_dapper_customadaptor.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "grid_dapper_customadaptor.client\\src\\app\\app.component.html",
+              "ToolTip": "D:\\angular\\connecting-database\\dapper-custom\\custom\\Grid_Dapper_CustomAdaptor\\grid_dapper_customadaptor.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "grid_dapper_customadaptor.client\\src\\app\\app.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-14T13:11:19.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GridController.cs",
+              "DocumentMoniker": "D:\\angular\\connecting-database\\mysql-custom\\New folder\\Grid_MSSQL\\Grid_MSSQL.Server\\Controllers\\GridController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\mysql-custom\\New folder\\Grid_MSSQL\\Grid_MSSQL.Server\\Controllers\\GridController.cs",
+              "ToolTip": "D:\\angular\\connecting-database\\mysql-custom\\New folder\\Grid_MSSQL\\Grid_MSSQL.Server\\Controllers\\GridController.cs",
+              "RelativeToolTip": "..\\..\\..\\mysql-custom\\New folder\\Grid_MSSQL\\Grid_MSSQL.Server\\Controllers\\GridController.cs",
+              "ViewState": "AQIAAKwAAAAAAAAAAAAAAKkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T15:05:48.573Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "D:\\angular\\connecting-database\\dapper-custom\\custom\\Grid_Dapper_CustomAdaptor\\grid_dapper_customadaptor.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "grid_dapper_customadaptor.client\\src\\app\\app.module.ts",
+              "ToolTip": "D:\\angular\\connecting-database\\dapper-custom\\custom\\Grid_Dapper_CustomAdaptor\\grid_dapper_customadaptor.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "grid_dapper_customadaptor.client\\src\\app\\app.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-14T13:11:04.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GridController.cs",
+              "DocumentMoniker": "D:\\angular\\connecting-database\\dapper-custom\\Grid_Dapper\\Grid_Dapper.Server\\Controllers\\GridController.cs",
+              "RelativeDocumentMoniker": "..\\..\\Grid_Dapper\\Grid_Dapper.Server\\Controllers\\GridController.cs",
+              "ToolTip": "D:\\angular\\connecting-database\\dapper-custom\\Grid_Dapper\\Grid_Dapper.Server\\Controllers\\GridController.cs",
+              "RelativeToolTip": "..\\..\\Grid_Dapper\\Grid_Dapper.Server\\Controllers\\GridController.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T14:58:06.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "package.json",
+              "DocumentMoniker": "D:\\angular\\connecting-database\\dapper-custom\\custom\\Grid_Dapper_CustomAdaptor\\grid_dapper_customadaptor.client\\package.json",
+              "RelativeDocumentMoniker": "grid_dapper_customadaptor.client\\package.json",
+              "ToolTip": "D:\\angular\\connecting-database\\dapper-custom\\custom\\Grid_Dapper_CustomAdaptor\\grid_dapper_customadaptor.client\\package.json",
+              "RelativeToolTip": "grid_dapper_customadaptor.client\\package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-14T13:11:38.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "styles.css",
+              "DocumentMoniker": "D:\\angular\\connecting-database\\dapper-custom\\custom\\Grid_Dapper_CustomAdaptor\\grid_dapper_customadaptor.client\\src\\styles.css",
+              "RelativeDocumentMoniker": "grid_dapper_customadaptor.client\\src\\styles.css",
+              "ToolTip": "D:\\angular\\connecting-database\\dapper-custom\\custom\\Grid_Dapper_CustomAdaptor\\grid_dapper_customadaptor.client\\src\\styles.css",
+              "RelativeToolTip": "grid_dapper_customadaptor.client\\src\\styles.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-14T13:10:51.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\angular\\connecting-database\\dapper-custom\\custom\\Grid_Dapper_CustomAdaptor\\Grid_Dapper_CustomAdaptor.Server\\Program.cs",
+              "RelativeDocumentMoniker": "Grid_Dapper_CustomAdaptor.Server\\Program.cs",
+              "ToolTip": "D:\\angular\\connecting-database\\dapper-custom\\custom\\Grid_Dapper_CustomAdaptor\\Grid_Dapper_CustomAdaptor.Server\\Program.cs",
+              "RelativeToolTip": "Grid_Dapper_CustomAdaptor.Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T13:10:33.095Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

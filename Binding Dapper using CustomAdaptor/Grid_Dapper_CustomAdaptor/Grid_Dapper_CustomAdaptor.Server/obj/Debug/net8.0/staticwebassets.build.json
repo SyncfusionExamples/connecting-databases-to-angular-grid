@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "QjV1LytGClHDIoHU+NPtHI6AUo1XFtS7KqJcYzHF6gU=",
+  "Source": "Grid_Dapper_CustomAdaptor.Server",
+  "BasePath": "_content/Grid_Dapper_CustomAdaptor.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\angular\\connecting-database\\dapper-custom\\custom\\Grid_Dapper_CustomAdaptor\\grid_dapper_customadaptor.client\\grid_dapper_customadaptor.client.esproj",
+      "Version": 2,
+      "Source": "grid_dapper_customadaptor.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
