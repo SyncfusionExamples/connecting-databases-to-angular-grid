@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grid_MSSQL.Server", "Grid_MSSQL.Server\Grid_MSSQL.Server.csproj", "{1877CE58-6BBD-4F9F-988A-4022D8429E65}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "grid_mssql.client", "grid_mssql.client\grid_mssql.client.esproj", "{1D9FFEE9-CAD2-4D54-B4A3-A1042305C9A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1877CE58-6BBD-4F9F-988A-4022D8429E65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1877CE58-6BBD-4F9F-988A-4022D8429E65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1877CE58-6BBD-4F9F-988A-4022D8429E65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1877CE58-6BBD-4F9F-988A-4022D8429E65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D9FFEE9-CAD2-4D54-B4A3-A1042305C9A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D9FFEE9-CAD2-4D54-B4A3-A1042305C9A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D9FFEE9-CAD2-4D54-B4A3-A1042305C9A4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1D9FFEE9-CAD2-4D54-B4A3-A1042305C9A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D9FFEE9-CAD2-4D54-B4A3-A1042305C9A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D9FFEE9-CAD2-4D54-B4A3-A1042305C9A4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {097A8824-C47C-4DD7-A11F-55EE7DB796C4}
+	EndGlobalSection
+EndGlobal
