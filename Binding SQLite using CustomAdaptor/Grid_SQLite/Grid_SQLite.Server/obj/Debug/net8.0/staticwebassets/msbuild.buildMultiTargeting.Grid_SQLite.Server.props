@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Grid_SQLite.Server.props" />
+</Project>

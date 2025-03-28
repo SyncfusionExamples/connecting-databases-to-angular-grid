@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:4200",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "D:\\angular\\connecting-database\\entity\\Grid_EntityFramework\\Grid_EntityFramework.Server\\..\\grid_entityframework.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

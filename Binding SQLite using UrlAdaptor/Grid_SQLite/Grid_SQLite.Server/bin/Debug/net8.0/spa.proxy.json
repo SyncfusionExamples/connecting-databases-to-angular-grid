@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:4200",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "D:\\angular\\connecting-database\\sqllite\\Grid_SQLite\\Grid_SQLite.Server\\..\\grid_sqlite.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

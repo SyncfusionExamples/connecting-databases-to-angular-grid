@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "AGYZYfJ45AqLIqp17kq8gTa1DtxuHlNTo2mCBnxNZTk=",
+  "Source": "Grid_SQLite.Server",
+  "BasePath": "_content/Grid_SQLite.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\angular\\connecting-database\\sqlite-custom\\Grid_SQLite\\grid_sqlite.client\\grid_sqlite.client.esproj",
+      "Version": 2,
+      "Source": "grid_sqlite.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
