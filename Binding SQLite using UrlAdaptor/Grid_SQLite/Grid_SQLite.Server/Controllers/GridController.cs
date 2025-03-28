@@ -187,8 +187,8 @@ namespace Grid_SQLite.Server.Controllers
         [Route("api/[controller]/Remove")]
         public void Remove([FromBody] CRUDModel<Orders> value)
         {
-            //Create query to update the changes into the database by accessing its properties.
-            string queryStr = $"Update Orders set CustomerID='{value.value.CustomerID}', Freight='{value.value.Freight}',EmployeeID='{value.value.EmployeeID}',ShipCity='{value.value.ShipCity}' where OrderID='{value.value.OrderID}'";
+            //Create query to remove the specific from database by passing the primary key column value.
+            string queryStr = $"Delete from Orders where OrderID={value.key}";
 
             // Establishes a connection to the SQLite database using the provided connection string.
             SqliteConnection Connection = new SqliteConnection(ConnectionString);
