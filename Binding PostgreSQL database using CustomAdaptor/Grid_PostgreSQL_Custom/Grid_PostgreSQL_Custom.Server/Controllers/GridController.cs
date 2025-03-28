@@ -184,7 +184,7 @@ namespace Grid_PostgreSQL_Custom.Server.Controllers
                 foreach (Orders Record in (IEnumerable<Orders>)value.changed)
                 {
                     // Create query to update the changes into the database by accessing its properties.
-                    string queryStr = $"Update \"Orders\" set \"CustomerID\"='{value.value.CustomerID}', \"Freight\"={value.value.Freight},\"EmployeeID\"={value.value.EmployeeID},\"ShipCity\"='{value.value.ShipCity}' where \"OrderID\"={value.value.OrderID}";
+                    string queryStr = $"Update \"Orders\" set \"CustomerID\"='{Record.CustomerID}', \"Freight\"={Record.Freight},\"EmployeeID\"={Record.EmployeeID},\"ShipCity\"='{Record.ShipCity}' where \"OrderID\"={Record.OrderID}";
 
                     // Create a new NpgsqlConnection object using the connection string.
                     NpgsqlConnection Connection = new NpgsqlConnection(ConnectionString);
@@ -209,7 +209,7 @@ namespace Grid_PostgreSQL_Custom.Server.Controllers
                 foreach (Orders Record in (IEnumerable<Orders>)value.added)
                 {
                     // Create query to insert the specific into the database by accessing its properties.
-                    string queryStr = $"Insert into \"Orders\" (\"CustomerID\", \"Freight\", \"ShipCity\", \"EmployeeID\") values('{value.value.CustomerID}',{value.value.Freight},'{value.value.ShipCity}','{value.value.EmployeeID}')";
+                    string queryStr = $"Insert into \"Orders\" (\"CustomerID\", \"Freight\", \"ShipCity\", \"EmployeeID\") values('{Record.CustomerID}',{Record.Freight},'{Record.ShipCity}','{Record.EmployeeID}')";
 
                     // Create a new NpgsqlConnection object using the connection string.
                     NpgsqlConnection Connection = new NpgsqlConnection(ConnectionString);
@@ -234,7 +234,7 @@ namespace Grid_PostgreSQL_Custom.Server.Controllers
                 foreach (Orders Record in (IEnumerable<Orders>)value.deleted)
                 {
                     //Create query to remove the specific from database by passing the primary key column value.
-                    string queryStr = $"DELETE FROM \"Orders\" WHERE \"OrderID\" = {value.key}";
+                    string queryStr = $"DELETE FROM \"Orders\" WHERE \"OrderID\" = {Record.OrderID}";
 
                     // Create a new NpgsqlConnection object using the connection string.
                     NpgsqlConnection Connection = new NpgsqlConnection(ConnectionString);
