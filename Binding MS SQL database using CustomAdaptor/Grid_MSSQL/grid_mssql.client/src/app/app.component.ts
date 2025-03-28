@@ -23,12 +23,12 @@ export class AppComponent {
 
   public ngOnInit(): void {
     this.data = new DataManager({
-      url: 'https://localhost:7242/api/grid',
-      insertUrl: 'https://localhost:7242/api/grid/Insert',
-      updateUrl: 'https://localhost:7242/api/grid/Update',
-      removeUrl: 'https://localhost:7242/api/grid/Remove',
+      url: 'https://localhost:7242/api/Grid',
+      insertUrl: 'https://localhost:7242/api/Grid/Insert',
+      updateUrl: 'https://localhost:7242/api/Grid/Update',
+      removeUrl: 'https://localhost:7242/api/Grid/Remove',
       // Enable batch URL when batch editing is enabled.
-      //batchUrl: 'https://localhost:7242/api/grid/BatchUpdate',
+      //batchUrl: 'https://localhost:7242/api/Grid/BatchUpdate',
       adaptor: new CustomAdaptor()
     });
     this.employeeIDRules = { required: true, number: true };
