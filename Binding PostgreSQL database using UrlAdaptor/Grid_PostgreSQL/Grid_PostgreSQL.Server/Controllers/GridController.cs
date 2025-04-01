@@ -29,7 +29,7 @@ namespace Grid_PostgreSQL.Server.Controllers
             // Get the total count of records.
             int totalRecordsCount = DataSource.Count();
 
-            // Return data based on the request
+            // Return data based on the request.
             return new { result = DataSource, count = totalRecordsCount };
         }
 
@@ -50,7 +50,7 @@ namespace Grid_PostgreSQL.Server.Controllers
             // Open the database connection before executing the query.
             Connection.Open();
 
-            //Using NpgsqlCommand and Query create connection with database.
+            //Using NpgsqlCommand and query create connection with database.
             NpgsqlCommand Command = new(queryStr, Connection);
 
             // Using NpgsqlDataAdapter to execute the NpgsqlCommand and fill the results into a DataTable. 
