@@ -1,6 +1,0 @@
-@Grid_Dapper_CustomAdaptor.Server_HostAddress = http://localhost:5266
-
-GET {{Grid_Dapper_CustomAdaptor.Server_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
