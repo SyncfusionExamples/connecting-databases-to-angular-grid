@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\Grid_SQLite.Server.props" />
-</Project>

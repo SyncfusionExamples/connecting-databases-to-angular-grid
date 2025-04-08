@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\Grid_EntityFramework.Server.props" />
-</Project>
