@@ -1,1 +1,0 @@
-D:\angular\connecting-database\mysql\Grid_MySQL\grid_mysql.client\obj\Debug\grid_mysql.client.esproj.CoreCompileInputs.cache

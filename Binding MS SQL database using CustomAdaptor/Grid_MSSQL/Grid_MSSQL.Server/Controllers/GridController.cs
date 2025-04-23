@@ -11,7 +11,11 @@ namespace Grid_MSSQL.Server.Controllers
     {
 
         string ConnectionString = @"<Enter a valid connection string>";
-
+        /// <summary>
+        /// Processes the DataManager request to perform searching, filtering, sorting, and paging operations.
+        /// </summary>
+        /// <param name="DataManagerRequest">Contains the details of the data operation requested.</param>
+        /// <returns>Returns a JSON object with the filtered, sorted, and paginated data along with the total record count.</returns>
         [HttpPost]
         [Route("api/[controller]")]
         public object Post([FromBody] DataManagerRequest DataManagerRequest)
