@@ -1,8 +1,6 @@
 
 # Syncfusion Angular Grid with Django REST Framework and Microsoft SQL Server
 
-## Project Overview
-
 A lightweight, production-ready pattern for binding **Microsoft SQL Server** data to a **Syncfusion Angular Grid** via **Django REST Framework (DRF)**. The sample supports complete CRUD (Create, Read, Update, Delete), server-side filtering, searching, sorting, and paging using **DataManager + UrlAdaptor** with a DRF `ModelViewSet`.
 
 ## Key Features
@@ -156,10 +154,8 @@ CORS_ALLOWED_ORIGINS = [
 - Check `DATABASES` credentials and server reachability
 
 **Date parsing/format**
-- Ensure front-end date fields use `type="date"`
+- Ensure front-end date fields use `type=" date"`
 - If needed, configure DRF `DATETIME_INPUT_FORMATS`/`DATE_INPUT_FORMATS`
 
 ---
 
-## Full Documentation
-- Detailed, step-by-step directions are available in the [User Guide](https://ej2.syncfusion.com/angular/documentation/grid/data-binding)
