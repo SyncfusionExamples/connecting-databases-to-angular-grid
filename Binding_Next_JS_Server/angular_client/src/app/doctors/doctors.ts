@@ -102,7 +102,7 @@ export class Doctors {
   // Fetch grid data from back-end, passing current state
   async fetchData(gridState: any) {
     const encodedState = encodeURIComponent(JSON.stringify(gridState));
-    const url = `http://localhost:3001/api/health_care?gridState=${encodedState}`;
+    const url = `http://localhost:3000/api/health_care?gridState=${encodedState}`;
 
     const response = await fetch(url, {
       method: 'GET',
@@ -139,7 +139,7 @@ export class Doctors {
 
   // Handle Create / Update / Delete operations
   async dataSourceChanged(args: DataSourceChangedEventArgs) {
-    const url = 'http://localhost:3001/api/health_care';
+    const url = 'http://localhost:3000/api/health_care';
     let method = 'POST';
     let body: any = {};
 
