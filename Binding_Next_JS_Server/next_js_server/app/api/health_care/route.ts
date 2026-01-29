@@ -158,7 +158,7 @@ export async function PUT(request: NextRequest) {
         }
         doctorDetails[doctorIndex] = {
             ...doctorDetails[doctorIndex],
-            Name: body.name || doctorDetails[doctorIndex].Name,
+            Name: body.Name || doctorDetails[doctorIndex].Name,
             Specialty: body.Specialty || doctorDetails[doctorIndex].Specialty,
             Experience: body.Experience || doctorDetails[doctorIndex].Experience,
             Availability: body.Availability || doctorDetails[doctorIndex].Availability,
