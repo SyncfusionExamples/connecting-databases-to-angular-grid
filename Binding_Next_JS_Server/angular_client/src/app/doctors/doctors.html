@@ -21,7 +21,7 @@
             </e-column>
             <e-column field="Specialty" headerText="Specialty" width="150" editType="dropdownedit"
                 [edit]="ddparams"></e-column>
-            <e-column field="Email" headerText="Email Address" width="150">
+            <e-column field="Email" headerText="Email Address" width="150" [validationRules]="{ email: true }">
                 <ng-template #template let-data>
                     <div>
                         <a href="#">
