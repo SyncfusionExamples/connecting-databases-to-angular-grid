@@ -9,6 +9,7 @@ import {
   GridComponent,
   GridModule,
   ToolbarService,
+  RowInfo,
 } from '@syncfusion/ej2-angular-grids';
 import {
   PageService,
@@ -95,7 +96,7 @@ export class Doctors {
       search: [],
     };
     this.fetchData(initialState).then((res) => {
-      this.data = res;
+      this.gridInstance.dataSource  = res;
     });
   }
 
@@ -133,7 +134,7 @@ export class Doctors {
       (args as any).dataSource(res.result);
     } else {
       // For paging, sorting and other data actions
-      this.data = res;
+      this.gridInstance.dataSource  = res;
     }
   }
 
@@ -169,9 +170,9 @@ export class Doctors {
   }
 
   // Navigate to patients for the selected doctor
-  btnClick(event: any) {
-    const rowData: any = this.gridInstance.getRowInfo(event.target).rowData;
-    const doctorID = rowData.DoctorId;
+  btnClick(event: MouseEvent) {
+    const currentRowInfo: RowInfo = this.gridInstance.getRowInfo(event.target as HTMLElement);
+    const doctorID = (currentRowInfo.rowData as any).DoctorId;
     this.router.navigate(['patients'], {
       queryParams: { doctorID },
     });
