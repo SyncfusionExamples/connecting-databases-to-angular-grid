@@ -1,14 +1,14 @@
 import { Component, ViewChild } from '@angular/core';
 import { DataManager } from '@syncfusion/ej2-data';
 import { CustomAdaptor } from './CustomAdaptor';
-import { EditService, FilterService, EditSettingsModel, GridModule, GridComponent, ToolbarItems, PageService, SortService, ToolbarService } from '@syncfusion/ej2-angular-grids';
+import { EditService, FilterService, EditSettingsModel, GridModule, GridComponent, ToolbarItems, PageService, SortService, ToolbarService,AggregateService,GroupService } from '@syncfusion/ej2-angular-grids';
 
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
   standalone: true,
-  providers: [EditService, ToolbarService, PageService, SortService, FilterService],
-  imports: [GridModule],
+  imports: [ GridModule ],
+  providers: [EditService, ToolbarService, FilterService, SortService, PageService, GroupService, AggregateService],
 })
 export class AppComponent {
   public data?: DataManager;
