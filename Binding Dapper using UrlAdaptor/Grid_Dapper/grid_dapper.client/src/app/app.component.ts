@@ -1,6 +1,6 @@
 import { Component, ViewChild } from '@angular/core';
 import { DataManager, UrlAdaptor } from '@syncfusion/ej2-data';
-import { EditService, FilterService, EditSettingsModel, GridModule, GridComponent, ToolbarItems, PageService, SortService, ToolbarService } from '@syncfusion/ej2-angular-grids'; import { CustomAdaptor } from './CustomAdaptor';
+import { EditService, FilterService, EditSettingsModel, GridModule, GridComponent, ToolbarItems, PageService, SortService, ToolbarService } from '@syncfusion/ej2-angular-grids';
 
 @Component({
   selector: 'app-root',
